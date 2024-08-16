@@ -1,6 +1,3 @@
-Aqui está um exemplo de um arquivo README para o seu projeto de Jogo da Forca em C:
-
-```markdown
 # Jogo da Forca
 
 Este é um jogo da forca implementado em C, onde o jogador tenta adivinhar uma palavra secreta. A cada letra errada, o desenho de uma forca é atualizado. O jogo termina quando o jogador adivinha a palavra ou comete cinco erros.
